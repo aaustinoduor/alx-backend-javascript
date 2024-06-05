@@ -33,4 +33,4 @@ interface StudentConstructor {
 
 const student = new StudentClass("Austin", "Owaga");
 console.log(student.displayName())
-console.log(student.workOnHomework())
+console.log(studenit.workOnHomework())
